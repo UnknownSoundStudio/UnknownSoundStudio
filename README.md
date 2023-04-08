@@ -8,8 +8,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 몇개의 실험 프로젝트를 진행하고있어요.
-디스코드뮤직봇 [MetronomeMusicBot]([뮤직봇](https://koreanbots.dev/bots/867778944526057483))
-디스코드메모봇 [DiscordMemoBot]([메모봇](https://koreanbots.dev/bots/1086477621342240878))
+디스코드뮤직봇 ([Metronome](https://koreanbots.dev/bots/867778944526057483))
+디스코드메모봇 ([MEMO](https://koreanbots.dev/bots/1086477621342240878))
 
 
 - 👯 또 다양한 분야를 도전하고있어요.
