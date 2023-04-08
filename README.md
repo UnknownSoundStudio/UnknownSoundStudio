@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요! 👋 저는 UnknownSoundStudio 입니다.</h1>
-<h3 align="center">한국에 살고있는 고등학생 3학년 개발자에요.</h3>
+<h3 align="center">한국에 살고있는 20살 개발자에요.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknownsoundstudio&label=Profile%20views&color=0e75b6&style=flat" alt="unknownsoundstudio" /> </p>
 
@@ -7,9 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 몇개의 실험 프로젝트를 진행하고있어요 ! [Metronome Music Bot](unknownmall.xyz)
+- 🔭 몇개의 실험 프로젝트를 진행하고있어요 ! [Metronome Music Bot]([koreanbots.dev](https://koreanbots.dev/bots/867778944526057483))
+                                         [Discord Memo Bot]([koreanbots.dev](https://koreanbots.dev/bots/1086477621342240878))
 
-- 👯 또 다양한 분야를 도전하고있어요. [Youtube & Soundcloud](https://soundcloud.com/artisthavemusic)
+
+- 👯 또 다양한 분야를 도전하고있어요. [Youtube](https://www.youtube.com/@HAVEMUSIK)
+-                                  [Youtube](https://soundcloud.com/unknownsoundstudio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
